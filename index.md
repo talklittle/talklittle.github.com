@@ -1,5 +1,5 @@
 ---
-layout: start
+layout: page
 title: talklittle's cool website
 tagline: look at my projects
 ---
