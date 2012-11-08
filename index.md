@@ -7,5 +7,9 @@ tagline: look at my projects
 
 ## reddit is fun
 
-[![riflogo](assets/images/redditisfun114.png)](reddit-is-fun)
+[![reddit is fun logo](assets/images/redditisfun114.png)](reddit-is-fun)
+
+## aww: reddit pictures widget
+
+[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
 
