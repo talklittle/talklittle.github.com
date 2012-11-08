@@ -9,7 +9,10 @@ description: ""
 
 **aww** is an Android home screen widget. It shows pictures from **any public subreddit** on reddit.com.
 
-[$0.99 on Google Play](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditaww)
+[Introductory blog post from July 2012](http://android.andrewshu.com/2012/07/aww-reddit-pictures-widget.html)
+
+[![google play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditaww)
+$0.99 on Google Play
 
 My personal favorite safe-for-work subreddits to use with this widget:
 * [/r/aww](http://www.reddit.com/r/aww)
