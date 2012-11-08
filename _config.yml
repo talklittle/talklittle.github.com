@@ -9,8 +9,8 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : reddit is fun
-tagline: reddit client for Android
+title : talklittle
+tagline: look at my projects
 author :
   name : Andrew Shu
   email : talklittle@gmail.com
