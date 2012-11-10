@@ -2,7 +2,7 @@
 layout: post
 category : frog-ball
 tags : [frog-ball, announcement]
-tagline: Day 12
+tagline: Day 25
 ---
 {% include JB/setup %}
 
@@ -36,9 +36,7 @@ As you can see, I'm using the wonderful [libgdx](http://libgdx.badlogicgames.com
 
 What you can't see is that I'm also using the [AllJoyn framework](http://www.alljoyn.org/) for device-to-device communication. I've actually got this part working before doing the actual game. I figured it would be easier to design the game with networking up front, rather than write the full game and heavily refactor to add networking support.
 
-It's been about 10 or 11 days since I started. I lost a day or two of that spent on [reddit is fun](/reddit-is-fun) instead. The time doesn't include all the time I spent in September/October learning OpenGL and iOS stuff. But that was for another project, now on my backburner, so let's say today is Day 12 for Frog Ball.
-
-(Coincidentally I chose Day 12 to write [a very vague blog post](http://blog.andrewshu.com/2012/09/day-12.html) for one of the previous projects.)
+It's been close to a month since I started. I lost a few days of that spent on [reddit is fun](/reddit-is-fun) instead. The time doesn't include all the time I spent in September learning OpenGL and iOS stuff. But that was for another project, now on my backburner, so let's say today is Day 25 for Frog Ball.
 
 ## Target: Xmas
 
