@@ -22,15 +22,27 @@ Usage:
 
 {% if site.JB.pages_list.provider == "custom" %}
   {% include custom/pages_list %}
+{% elsif group != null %}
+  {% for weight in (1..10) %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if group == node.group and weight == node.weight %}
+      	  {% if page.url == node.url %}
+      	  <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+      	  {% else %}
+      	  <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+      	  {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 {% else %}
   {% for node in pages_list %}
     {% if node.title != null %}
-      {% if group == null or group == node.group %}
-      	{% if page.url == node.url %}
-      	<li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
-      	{% else %}
-      	<li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
-      	{% endif %}
+      {% if page.url == node.url %}
+      <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+      {% else %}
+      <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
