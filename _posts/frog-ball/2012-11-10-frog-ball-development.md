@@ -1,7 +1,7 @@
 ---
 layout: post
 category : frog-ball
-tags : [frog-ball, announcement]
+tags : [frog-ball, announcement, devlog]
 tagline: Day 25
 ---
 {% include JB/setup %}

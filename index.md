@@ -17,3 +17,11 @@ tagline: look at my projects
 
 [![frog silhouette](assets/images/Frog_silhouette.jpg)]({{ site.categories.frog-ball.first.url }})
 
+{% for category in site.categories %}
+{% if category[0] == "frog-ball" %}
+<ul>
+  {% assign pages_list = category[1] %}
+  {% include JB/pages_list %}
+</ul>
+{% endif %}
+{% endfor %}
