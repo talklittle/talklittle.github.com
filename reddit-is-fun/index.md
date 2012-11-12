@@ -13,6 +13,8 @@ Free version with optional ads
 [![Pro version on Google Play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation)
 $1.99 golden platinum version
 
+[Alternate downloads page if you cannot access Google Play](http://github.com/talklittle/reddit-is-fun/downloads)
+
 
 ## FAQ
 
