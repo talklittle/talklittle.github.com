@@ -43,7 +43,11 @@ I welcome additions to these FAQs too.
 
 ### How do I register an account?
 
-[via the reddit website](https://ssl.reddit.com/login)
+Via the [reddit website](https://ssl.reddit.com/login).
+
+### Why am I being rate limited?
+
+You should [verify your email](https://ssl.reddit.com/prefs/update).
 
 ### How do I view the sidebar?
 
