@@ -56,3 +56,10 @@ First you have to be within a subreddit, not the frontpage and not /r/all or /r/
 ### Why do webpages and images reload when I rotate my device?
 
 It's an Android WebView limitation. There's a hack involving setting a flag on the Activity, but it's bad and incompatible with my UI layout, so I don't use it.
+
+### Are animated GIFs supported?
+
+They are supported, but it depends on your device. Manufacturers have the ability to disable GIF animations in Android WebViews.
+
+If your device is affected, and you see still images instead of animated GIFs, your best bet is to open the GIF in the external Android Browser, which has custom GIF support.
+
