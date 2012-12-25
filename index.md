@@ -13,9 +13,9 @@ tagline: look at my projects
 
 [![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
 
-## Frog Ball (in development)
+## Frog Ball (in beta)
 
-[![frog silhouette](assets/images/Frog_silhouette.jpg)]({{ site.categories.frog-ball.first.url }})
+[![Frog Ball logo](assets/images/frogball96.png)]({{ site.categories.frog-ball.first.url }})
 
 {% for category in site.categories %}
 {% if category[0] == "frog-ball" %}
