@@ -1,7 +1,7 @@
 ---
 layout: post
 category : frog-ball
-tags : [frog-ball, devlog, screenshot]
+tags : [frog-ball, devlog, download, video]
 tagline: Day 70
 ---
 {% include JB/setup %}
