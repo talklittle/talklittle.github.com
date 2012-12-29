@@ -7,13 +7,19 @@ tagline: look at my projects
 
 ## reddit is fun
 
+*A reddit client for Android.*
+
 [![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun)
 
-## aww: reddit pictures widget
+## Buffeo Daydream
 
-[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
+*An interactive screensaver for Android 4.2 Jelly Bean.*
+
+[![Buffeo logo](assets/images/buffeo96.png)](buffeo-daydream)
 
 ## Frog Ball (in beta)
+
+*A 2-player action/arcade game.*
 
 [![Frog Ball logo](assets/images/frogball96.png)]({{ site.categories.frog-ball.first.url }})
 
@@ -25,3 +31,10 @@ tagline: look at my projects
 </ul>
 {% endif %}
 {% endfor %}
+
+## aww: reddit pictures widget
+
+*A homescreen widget showing pictures from reddit.*
+
+[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
+
