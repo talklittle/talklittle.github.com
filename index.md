@@ -11,6 +11,12 @@ tagline: look at my projects
 
 [![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun)
 
+## aww: reddit pictures widget
+
+*A homescreen widget showing pictures from reddit.*
+
+[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
+
 ## Buffeo Daydream
 
 *An interactive screensaver for Android 4.2 Jelly Bean.*
@@ -31,10 +37,4 @@ tagline: look at my projects
 </ul>
 {% endif %}
 {% endfor %}
-
-## aww: reddit pictures widget
-
-*A homescreen widget showing pictures from reddit.*
-
-[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
 
