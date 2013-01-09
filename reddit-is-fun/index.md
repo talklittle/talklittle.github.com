@@ -13,7 +13,7 @@ Free version with optional ads
 [![Pro version on Google Play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation)
 $1.99 golden platinum version
 
-[Alternate downloads page if you cannot access Google Play](http://github.com/talklittle/reddit-is-fun/downloads)
+[Old version 2.3.6](https://s3.amazonaws.com/reddit-is-fun-archive/reddit-is-fun-lite_2.3.6.apk), supports Android 1.6 Donut
 
 
 ## FAQ
