@@ -53,9 +53,9 @@ You should [verify your email](https://ssl.reddit.com/prefs/update).
 
 First you have to be within a subreddit, not the frontpage and not /r/all or /r/mod. Click the "i" icon in the top bar.
 
-### Why do webpages and images reload when I rotate my device?
+### <strike>Why do webpages and images reload when I rotate my device?</strike>
 
-It's an Android WebView limitation. There's a hack involving setting a flag on the Activity, but it's bad and incompatible with my UI layout, so I don't use it.
+This is fixed in version 2.7.3, released January 25, 2013.
 
 ### Are animated GIFs supported?
 
