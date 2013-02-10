@@ -7,7 +7,7 @@ tagline: look at my projects
 
 ## reddit is fun
 
-*A reddit client for Android.*
+*A reddit client for Android and BlackBerry.*
 
 [![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun)
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "reddit is fun"
-tagline: "Android reddit client"
+tagline: "Android and BlackBerry reddit client"
 ---
 {% include JB/setup %}
 
@@ -13,7 +13,11 @@ Free version with optional ads
 [![Pro version on Google Play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation)
 $1.99 golden platinum version
 
-[Old version 2.3.6](https://s3.amazonaws.com/reddit-is-fun-archive/reddit-is-fun-lite_2.3.6.apk), supports Android 1.6 Donut
+[![Pro version on BlackBerry App World](/assets/images/bbworld172x60.png)](http://appworld.blackberry.com/webstore/content/99114/)
+$1.99 for BlackBerry
+
+[Old version 2.3.6 for Android](https://s3.amazonaws.com/reddit-is-fun-archive/reddit-is-fun-lite_2.3.6.apk), supports Android 1.6 Donut
+
 
 
 ## FAQ
