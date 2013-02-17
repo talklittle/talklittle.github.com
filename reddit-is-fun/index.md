@@ -29,6 +29,7 @@ Lite requires you to enable ads to activate pro features. Pro is a one-time $1.9
 Pro features include:
 * dual-pane tablet mode
 * moderator features
+* history sync via [synccit](http://synccit.com)
 
 ### Where's the source code?
 
