@@ -13,6 +13,12 @@ Free version with optional ads
 [![Pro version on Google Play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation)
 $1.99 golden platinum version
 
+[![Lite version on Amazon](/assets/images/amazon-apps-store-us-black.png)](http://www.amazon.com/gp/mas/dl/android?p=com.andrewshu.android.reddit)
+Free version with optional ads
+
+[![Pro version on Amazon](/assets/images/amazon-apps-store-us-black.png)](http://www.amazon.com/gp/mas/dl/android?p=com.andrewshu.android.redditdonation)
+$1.99 golden platinum version
+
 [![Pro version on BlackBerry App World](/assets/images/bbworld172x60.png)](http://appworld.blackberry.com/webstore/content/99114/)
 $1.99 for BlackBerry
 
