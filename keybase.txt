@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/talklittle
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://talklittle.com
+  * I am talklittle (https://keybase.io/talklittle) on keybase.
+  * I have a public key with fingerprint FC70 3708 DF44 DE0E 4551  F1FB 4997 F141 559D 8D86
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fc703708df44de0e4551f1fb4997f141559d8d86",
+            "host": "keybase.io",
+            "key_id": "4997f141559d8d86",
+            "uid": "b86003aaa877cd06510ef3a45f238c00",
+            "username": "talklittle"
+        },
+        "service": {
+            "hostname": "talklittle.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415162539,
+    "expire_in": 157680000,
+    "prev": "f291a05ffb494450032522c5baec821d3304c619b9dc7592223fc1a3fa2f5628",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMLxAnicO8LLzMDF6Dn9o2Po3N42xtMHvpYyhESuWl2tlJSfUqlkVa2UnQqm0jLz
+0lOLCooy80qUrJTSks0NjM0NLFLSTExSUg1STUxNDdMM05JMLC3N0wxNDE1NLVMs
+UizMlHSUMvKLQTqAxiQlFqfqZeYDxYCc+MwUoCgW9aVgiSQLMwMD48TERAtz8+QU
+AzNTQ4PUNONEE9M0I2OLZAMDkMLi1KK8xNxUoOqSxJzsnMySkpxUpVodJaB4WWZy
+KsjVIMsx1Ogl5+cC9RcU5ZfkJ+fnAOUySkoKrEBaSyoLQGrLU5PioabEJ2XmpQD9
+DtRQllpUnJmfp2RlCFSZXJIJMhbkdkMzI1NjSx2l1IqCzKLU+EyQClNzMwsDIABZ
+k1oGCjEjS8NEA9M0UBiZmJgCPWdkamSUbJqUmJpsYWSYYmxsYJJsZmiZZJmSbG5q
+aWRkZJyWbJhonJZolGZqZmShBPJXYV6+kpUR0JmJ6UAjizPT8xJLSouAnj50MIaF
+gZGLgY2VCRR7DFycArA41ZHn/2ccfrL3WKGU/kFL49oli/vP3/o6WXzD1oploSmv
+HFjnXPcVc//K8jOB0SjjmOkzpV+Bxw/H/l1XyhZY+e/o9aZdf201ouULY5anKViE
+hjGpJ0i1PfDeOvngQcY3/5ZYNwfKChxI6tC7q/Zmyd0MNs4HGjsPyisvfdp+5d+J
+83XFqTXrb18wOvn3VVuxUUXsEqXfWn6zGS48c79yVuOJalSt3leDvR6eczlsepIt
+g6/EzljQvU9mQlpJcHbI7mVRMw/PtrOYybewf3/4myaVuQ+f+xf0bcpqWro+LPXt
+Dg11ixbDzX3RFX4BhW6tHFXiCWXZgqq2MjfYnonftUzvXcv37JNx0I85OpzfjD96
+xNtNP6BxM2ZZjEjpkR4RzuoG2/2tJ9epXk6uaTEWFvx87/u2d2uP9vSu5S17Y+Mu
++S9R/spqk8jV+638Gk9u71o055lPutDuujsCbBMCHdlmFob/nTUz4Flz0ba0dSeT
+JDtmSszR46mLffVaS/j3pxWzTv6NE2sxvyx8+9/a9qVvi5pPR9Y4LbvbfcBFhTdy
++vmuw46x4dPitBbxvLut/zLJc/KE9R3MvM1dPTumWbrN7NFWneFvsZFB58WNg/0z
+j+T//zDD7bfBY82yXZEyqozPI09fkT/DaRwzp2P7508qe3rXiO97HrThrd67yWfE
+q88wpBt25jXz3Zlr/2ntr3mPA/axBH9h+vvvUN325wB35ZYi
+=hc0Q
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/talklittle
+
+==================================================================
+
