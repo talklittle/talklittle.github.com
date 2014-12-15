@@ -28,6 +28,7 @@ tagline: "Android and BlackBerry reddit client"
 Lite requires you to enable ads to activate pro features. Pro is a one-time $1.99 payment.
 
 Pro features include:
+
 * custom themes - see [redditthemes.com](http://redditthemes.com)
 * dual-pane tablet mode
 * moderator features
