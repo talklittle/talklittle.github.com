@@ -23,6 +23,6 @@ tagline: "Android and BlackBerry reddit client"
 
 ## FAQ
 
-See the [Knowledge Base](https://talklittle.zendesk.comm/hc/en-us) for the latest app-related FAQ.
+See the [Knowledge Base](https://talklittle.zendesk.com/hc/en-us) for the latest app-related FAQ.
 
 Also check out [/r/redditisfun](https://www.reddit.com/r/redditisfun) for the app's community.
