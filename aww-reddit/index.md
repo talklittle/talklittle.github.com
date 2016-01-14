@@ -11,13 +11,13 @@ description: ""
 
 [Introductory blog post from July 2012](http://android.andrewshu.com/2012/07/aww-reddit-pictures-widget.html)
 
-[![google play](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.andrewshu.android.redditaww)
+[![google play](/assets/images/get_it_on_play_logo_large.png)](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditaww)
 $0.99 on Google Play
 
 My personal favorite safe-for-work subreddits to use with this widget:
-* [/r/aww](http://www.reddit.com/r/aww)
-* [/r/spaceporn](http://www.reddit.com/r/spaceporn)
-* [/r/earthporn](http://www.reddit.com/r/earthporn)
+* [/r/aww](https://www.reddit.com/r/aww)
+* [/r/spaceporn](https://www.reddit.com/r/spaceporn)
+* [/r/earthporn](https://www.reddit.com/r/earthporn)
 
 ## Videos
 
