@@ -10,7 +10,7 @@ tagline: Day 70
 
 Beta version 0.5 now available!
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/IqKV672zNNo?rel=0" frameborder="0" allowfullscreen="allowfullscreen">youtube embed</iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/IqKV672zNNo?rel=0" frameborder="0" allowfullscreen="allowfullscreen">youtube embed</iframe>
 
 I'm submitting to the [AllJoyn App Challenge](http://alljoynappchallenge.com).
 

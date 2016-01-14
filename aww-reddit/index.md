@@ -23,9 +23,9 @@ My personal favorite safe-for-work subreddits to use with this widget:
 
 #### Quick 1-minute demo of features:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/-i555QyiCHU" frameborder="0" allowfullscreen="allowfullscreen">vid1</iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/-i555QyiCHU" frameborder="0" allowfullscreen="allowfullscreen">vid1</iframe>
 
 #### 5-minute in-depth demo:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/q-vsEJo08o4" frameborder="0" allowfullscreen="allowfullscreen">vid2</iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/q-vsEJo08o4" frameborder="0" allowfullscreen="allowfullscreen">vid2</iframe>
 
