@@ -16,7 +16,7 @@ The art, design, and sound effects were created by my artist friend [Jim Ether](
 
 ## Where to get it
 
-[![Google Play link](/assets/images/get_it_on_play_logo_large.png)](http://play.google.com/store/apps/details?id=com.perisarc.conveyor)
+[![Google Play link](/assets/images/get_it_on_play_logo_large.png)](https://play.google.com/store/apps/details?id=com.perisarc.conveyor)
 Free!
 
 After installing it, go to: **Android Settings -> Display -> Daydream**.
