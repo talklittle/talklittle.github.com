@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jekyll --safe --auto --server
+jekyll serve --watch --safe
