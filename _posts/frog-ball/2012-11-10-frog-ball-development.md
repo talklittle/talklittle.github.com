@@ -36,7 +36,7 @@ As you can see, I'm using the wonderful [libgdx](http://libgdx.badlogicgames.com
 
 What you can't see is that I'm also using the [AllJoyn framework](http://www.alljoyn.org/) for device-to-device communication. I've actually got this part working before doing the actual game. I figured it would be easier to design the game with networking up front, rather than write the full game and heavily refactor to add networking support.
 
-It's been close to a month since I started. I lost a few days of that spent on [reddit is fun](/reddit-is-fun/) instead. The time doesn't include all the time I spent in September learning OpenGL and iOS stuff. But that was for another project, now on my backburner, so let's say today is Day 25 for Frog Ball.
+It's been close to a month since I started. I lost a few days of that spent on [reddit is fun](/reddit-is-fun) instead. The time doesn't include all the time I spent in September learning OpenGL and iOS stuff. But that was for another project, now on my backburner, so let's say today is Day 25 for Frog Ball.
 
 ## Target: Xmas
 
