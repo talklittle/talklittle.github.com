@@ -9,19 +9,19 @@ tagline: look at my projects
 
 *A reddit client for Android and BlackBerry.*
 
-[![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun)
+[![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun/)
 
 ## aww: reddit pictures widget
 
 *A homescreen widget showing pictures from reddit.*
 
-[![reddit aww logo](assets/images/awwicon.png)](aww-reddit)
+[![reddit aww logo](assets/images/awwicon.png)](aww-reddit/)
 
 ## Buffeo Daydream
 
 *An interactive screensaver for Android 4.2 Jelly Bean.*
 
-[![Buffeo logo](assets/images/buffeo96.png)](buffeo-daydream)
+[![Buffeo logo](assets/images/buffeo96.png)](buffeo-daydream/)
 
 ## Frog Ball (in beta)
 
