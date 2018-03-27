@@ -18,7 +18,6 @@ tagline: "Android and BlackBerry reddit client"
 
 [![Pro version on Google Play](/assets/images/get_it_on_play_logo_large.png)](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditdonation)
 [![Pro version on Amazon](/assets/images/amazon-apps-store-us-black172x60.png)](http://www.amazon.com/gp/mas/dl/android?p=com.andrewshu.android.redditdonation)
-[![Pro version on BlackBerry App World](/assets/images/bbworld172x60.png)](http://appworld.blackberry.com/webstore/content/99114/)
 
 
 ## FAQ
