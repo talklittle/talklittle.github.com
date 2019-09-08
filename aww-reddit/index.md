@@ -11,8 +11,7 @@ description: ""
 
 [Introductory blog post from July 2012](http://android.andrewshu.com/2012/07/aww-reddit-pictures-widget.html)
 
-[![google play](/assets/images/get_it_on_play_logo_large.png)](https://play.google.com/store/apps/details?id=com.andrewshu.android.redditaww)
-$0.99 on Google Play
+**Sorry, no longer available for download.**
 
 My personal favorite safe-for-work subreddits to use with this widget:
 * [/r/aww](https://www.reddit.com/r/aww)
