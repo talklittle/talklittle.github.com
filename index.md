@@ -11,12 +11,6 @@ tagline: look at my projects
 
 [![rif is fun logo](assets/images/rifisfun96.png)](rif-is-fun/)
 
-## aww: reddit pictures widget
-
-*A homescreen widget showing pictures from reddit.*
-
-[![reddit aww logo](assets/images/awwicon.png)](aww-reddit/)
-
 ## Buffeo Daydream
 
 *An interactive screensaver for Android 4.2 Jelly Bean.*
