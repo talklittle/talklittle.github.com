@@ -9,7 +9,7 @@ tagline: look at my projects
 
 *A Reddit client for Android.*
 
-[![rif is fun logo](assets/images/redditisfun96.png)](rif-is-fun/)
+[![rif is fun logo](assets/images/rifisfun96.png)](rif-is-fun/)
 
 ## aww: reddit pictures widget
 
