@@ -5,6 +5,10 @@ tagline: "Android Reddit client"
 ---
 {% include JB/setup %}
 
+## reddit is fun?
+
+"rif is fun" was formerly known as "reddit is fun". The name changed due to trademark licensing changes.
+
 ## Where to get it
 
 ### Free version with optional ads

@@ -7,7 +7,7 @@ tagline: look at my projects
 
 ## rif is fun
 
-*A Reddit client for Android.*
+*A Reddit client for Android. Formerly known as reddit is fun.*
 
 [![rif is fun logo](assets/images/rifisfun96.png)](rif-is-fun/)
 
