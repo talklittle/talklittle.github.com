@@ -5,11 +5,11 @@ tagline: look at my projects
 ---
 {% include JB/setup %}
 
-## reddit is fun
+## rif is fun
 
-*A reddit client for Android and BlackBerry.*
+*A Reddit client for Android.*
 
-[![reddit is fun logo](assets/images/redditisfun96.png)](reddit-is-fun/)
+[![rif is fun logo](assets/images/redditisfun96.png)](rif-is-fun/)
 
 ## aww: reddit pictures widget
 
