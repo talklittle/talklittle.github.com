@@ -9,7 +9,7 @@ tagline: "Android Reddit client"
 
 RIF is shutting down after June 30, 2023.
 
-### [Goodbye page](./goodbye)
+### Please go to the [Goodbye page](./goodbye)
 
 ## reddit is fun?
 
