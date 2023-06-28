@@ -4,11 +4,15 @@ title: "Goodbye RIF"
 ---
 {% include JB/setup %}
 
-RIF going away song for June 2023:
+## RIF going away song for June 2023:
 
-Jay Park - Yesterday ([YouTube](https://www.youtube.com/watch?v=ATuP6CE0vxM))
+Jay Park - Yesterday
+
+https://www.youtube.com/watch?v=ATuP6CE0vxM
 
 -----
+
+## A message
 
 Thank you everyone for your support since 2009.
 
