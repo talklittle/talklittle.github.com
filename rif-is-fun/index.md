@@ -5,6 +5,12 @@ tagline: "Android Reddit client"
 ---
 {% include JB/setup %}
 
+## Goodbye RIF
+
+RIF is shutting down after June 30, 2023.
+
+### [Goodbye page](./goodbye)
+
 ## reddit is fun?
 
 "rif is fun" was formerly known as "reddit is fun". The name changed due to trademark licensing changes.
