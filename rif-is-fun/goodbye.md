@@ -8,7 +8,7 @@ title: "Goodbye RIF"
 
 Jay Park - Yesterday
 
-https://www.youtube.com/watch?v=ATuP6CE0vxM
+[https://www.youtube.com/watch?v=ATuP6CE0vxM](https://www.youtube.com/watch?v=ATuP6CE0vxM)
 
 -----
 
