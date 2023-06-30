@@ -29,3 +29,14 @@ I'm honored that so many of you have felt the same way.
 Thank you for sharing this journey with me. It's been fun.
 
 *(This space will be updated on July 1.)*
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+[What's next?](./whats-next)
