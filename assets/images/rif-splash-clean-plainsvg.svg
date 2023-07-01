@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="47.50098mm"
+   height="42.539017mm"
+   viewBox="0 0 47.500982 42.539016"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   sodipodi:docname="rif-splash-clean.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.95755956"
+     inkscape:cx="-75.191146"
+     inkscape:cy="264.73549"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g19899"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="g19899"
+     inkscape:label="rif white path minus dot"
+     style="display:inline"
+     transform="translate(-69.20826,-60.400001)">
+    <g
+       aria-label="rif"
+       id="text19897"
+       style="font-size:50.8px;line-height:1.25;stroke-width:0.264583">
+      <path
+         d="m 81.709823,82.599175 q -4.043164,0 -5.308203,2.75332 V 102.93902 H 69.208261 V 76.100347 h 6.77168 l 0.223242,3.199804 q 2.108398,-3.695898 5.977929,-3.695898 1.364258,0 2.207618,0.322461 l -0.07441,6.870898 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';fill:#fbfbfb"
+         id="path19901" />
+      <path
+         d="M 95.352401,76.100347 V 102.93902 H 88.159042 V 76.100347 Z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';fill:#fbfbfb"
+         id="path19903"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m 115.71705,81.334136 h -5.33301 v 21.604884 h -7.19336 V 81.334136 h -3.993553 v -5.233789 h 3.993553 v -2.331641 q 0,-4.588867 2.6541,-7.019726 2.6541,-2.43086 7.19336,-2.43086 1.73633,0 3.6711,0.496094 l -0.0744,5.55625 q -0.94258,-0.223242 -2.20762,-0.223242 -3.96875,0 -4.04316,3.497461 v 2.455664 h 5.33301 z"
+         style="font-weight:bold;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';fill:#fbfbfb"
+         id="path19905" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="white dot shifted"
+     style="display:inline"
+     transform="translate(-69.20826,-60.400001)">
+    <circle
+       style="fill:#fbfbfb;fill-opacity:1;stroke-width:0.29133"
+       id="path20292"
+       cx="90.772499"
+       cy="66.072502"
+       r="5.6725001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="red dot"
+     style="display:inline"
+     transform="translate(-69.20826,-60.400001)">
+    <circle
+       style="fill:#ff4500;fill-opacity:1;stroke-width:0.249161"
+       id="path20062"
+       cx="91.755501"
+       cy="67.209999"
+       r="4.1599998" />
+  </g>
+</svg>
