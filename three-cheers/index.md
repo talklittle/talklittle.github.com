@@ -17,6 +17,10 @@ Three Cheers is currently in open alpha testing. [Announcement](https://tildes.n
 
 Alternative opt-in link for testing, if you are on web: [https://play.google.com/apps/testing/com.talklittle.android.tildes](https://play.google.com/apps/testing/com.talklittle.android.tildes)
 
+## iOS under development
+
+The iOS version of Three Cheers is currently under development.
+
 -----
 
 <small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
