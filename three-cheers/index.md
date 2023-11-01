@@ -24,9 +24,9 @@ If you prefer to sideload, an APK is provided here for direct download. Note tha
 [Three Cheers v0.5.8 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_0.5.8.apk) (18 MB): [2023-10-09] v0.5 first alpha + bugfixes  
 SHA256: `1d17fd9e27b5a2c5c5cb9bd2c6f7a0e020548c4fa7493fd9d9f1db859ae4de38`
 
+&nbsp;
 
-
-## iOS under development
+## iOS alpha
 
 Three Cheers (iOS version) is currently in open alpha testing. [Announcement](https://tildes.net/~tildes/1bt0/three_cheers_for_tildes_ios_version_is_open_for_alpha_testing_on_testflight) posted to Tildes on November 1, 2023.
 
