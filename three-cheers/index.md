@@ -21,8 +21,8 @@ Alternative opt-in link for testing, if you are on web: [https://play.google.com
 
 If you prefer to sideload, an APK is provided here for direct download. Note that it may not be kept as up-to-date as the Google Play release.
 
-[Three Cheers v1.0.1 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.0.1.apk) (16 MB): [2024-04-01] v1.0 + bugfixes: Submit, edit, and delete topics; require Android 7.1.1 minimum  
-SHA256: `33d611a9666597fa9d0145cc88c607f3b54aef0bb469c6bda96f897f10f4ba2c`
+[Three Cheers v1.0.2 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.0.2.apk) (16 MB): [2024-04-13] v1.0 + bugfixes: Submit, edit, and delete topics; require Android 7.1.1 minimum  
+SHA256: `52e6cbf95d4ef9e5817f25fe3218025b9e8a18ad58c78a04e3b771df7a1a2678`
 
 &nbsp;
 
