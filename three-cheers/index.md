@@ -32,6 +32,18 @@ Three Cheers (iOS version) is currently in open alpha testing. [Announcement](ht
 
 TestFlight link: [https://testflight.apple.com/join/mpVk1qIy](https://testflight.apple.com/join/mpVk1qIy)
 
+&nbsp;
+
+## Support requests
+
+Please visit the [Help Center](https://talklittle.zendesk.com/hc/en-us/categories/26309454206868) for questions and to submit support requests.
+
+&nbsp;
+
+## About Tildes
+
+To learn more about Tildes.net, please visit the official [Tildes Docs website](https://docs.tildes.net/). You can read about the website philosophy, community code of conduct, and more.
+
 -----
 
 <small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
