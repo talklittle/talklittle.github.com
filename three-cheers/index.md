@@ -7,13 +7,16 @@ tagline: "Android and iOS Tildes client"
 
 <style>
     img[alt="Google Play Store link"] { width: 240px; }
+    img[alt="App Store link"] { width: 240px; }
 </style>
 
-## Android alpha
+## Android
 
-Three Cheers (Android version) is currently in open alpha testing. [Announcement](https://tildes.net/~tildes/18s2/three_cheers_for_tildes_android_version_is_open_for_alpha_testing_on_the_google_play_store) posted to Tildes on July 28, 2023.
+Three Cheers (Android version) has reached version 1.0 as of April 2024!
 
 [![Google Play Store link](/assets/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.talklittle.android.tildes)
+
+Previously: [Alpha testing announcement](https://tildes.net/~tildes/18s2/three_cheers_for_tildes_android_version_is_open_for_alpha_testing_on_the_google_play_store) posted to Tildes on July 28, 2023.
 
 Alternative opt-in link for testing, if you are on web: [https://play.google.com/apps/testing/com.talklittle.android.tildes](https://play.google.com/apps/testing/com.talklittle.android.tildes)
 
@@ -26,11 +29,15 @@ SHA256: `aa52e44023f83df086ac73a63c9bd934fe4576422689600e4616df59ca0fbdbb`
 
 &nbsp;
 
-## iOS alpha
+## iOS
 
-Three Cheers (iOS version) is currently in open alpha testing. [Announcement](https://tildes.net/~tildes/1bt0/three_cheers_for_tildes_ios_version_is_open_for_alpha_testing_on_testflight) posted to Tildes on November 1, 2023.
+Three Cheers (iOS version) has reached version 1.0 as of May 2024!
 
-TestFlight link: [https://testflight.apple.com/join/mpVk1qIy](https://testflight.apple.com/join/mpVk1qIy)
+[![App Store link](/assets/images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.png)](https://apps.apple.com/app/three-cheers-for-tildes/id6470950557)
+
+Previously: [Alpha testing announcement](https://tildes.net/~tildes/1bt0/three_cheers_for_tildes_ios_version_is_open_for_alpha_testing_on_testflight) posted to Tildes on November 1, 2023.
+
+TestFlight link for beta testing the latest features in development: [https://testflight.apple.com/join/mpVk1qIy](https://testflight.apple.com/join/mpVk1qIy)
 
 &nbsp;
 
