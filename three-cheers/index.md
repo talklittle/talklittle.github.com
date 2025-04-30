@@ -24,8 +24,8 @@ Alternative opt-in link for testing, if you are on web: [https://play.google.com
 
 If you prefer to sideload, an APK is provided here for direct download. Note that it may not be kept as up-to-date as the Google Play release.
 
-[Three Cheers v1.4.2 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.4.2.apk) (37 MB): [2025-04-11] v1.4: Text size setting  
-SHA256: `c189d630a3b88ce249ec7a2d4ebbcc6c28843c44d214105fe61a1a029ac1210f`
+[Three Cheers v1.4.3 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.4.3.apk) (37 MB): [2025-04-30] v1.4: Text size setting  
+SHA256: `290108f5359da17a21e3862815b6825dd62545bba690bb6e8bca623dd40df08a`
 
 &nbsp;
 
