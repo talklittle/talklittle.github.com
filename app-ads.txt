@@ -250,3 +250,23 @@ meitu.com, 699, RESELLER
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 openx.com, 540866936, RESELLER, 6a698e2ec38604c6
 smartadserver.com, 3713, RESELLER
+Smartbid.ai, SMB44039, DIRECT, 12a9c44f6d26cbe1
+improvedigital.com, 2513, RESELLER
+Media.net, 8CUE6M0C8, RESELLER
+Media.net, 8CU74LQY2, RESELLER
+nextmillennium.io, 16978, RESELLER, 65bd090fa4a1e3d6
+freewheel.tv,sg1258260, RESELLER
+lijit.com, 571745, RESELLER, fafdf38b16bf6b2b #SOVRN
+triplelift.com, 13011, RESELLER, 6c33edb13117fd86
+lijit.com, 478097, RESELLER, fafdf38b16bf6b2b
+triplelift.com, 12613, RESELLER
+smartadserver.com, 5276, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 164084, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166268, RESELLER, 5d62403b186f2ace
+Copper6.com, 8863654, DIRECT, 12a9c44f6d26cbe1
+sonobi.com, 79e197cdbc, RESELLER, d1a215d9eb5aee9e
+appnexus.com, 16546, RESELLER
+adingo.jp, 32948, RESELLER
+shibumi-ssp.com, sh2386135543425, DIRECT
+adagio.io, 1618, RESELLER
+benefitmedia.link, 944907, DIRECT
