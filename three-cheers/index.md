@@ -24,8 +24,8 @@ Alternative opt-in link for testing, if you are on web: [https://play.google.com
 
 If you prefer to sideload, an APK is provided here for direct download. Note that it may not be kept as up-to-date as the Google Play release.
 
-[Three Cheers v1.6.3 Android APK](https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.6.3.apk) (42 MB): [2026-05-20] v1.6: Find in comments  
-SHA256: `ef248d84a663d5f1b01c8ab4566a5677715b79281b5259f02a85dc2882846767`
+[Three Cheers v{{ site.data.three_cheers.android.latest.version_name }} Android APK]({{ site.data.three_cheers.android.latest.apk.url }}) ({{ site.data.three_cheers.android.latest.apk.file_size }}): [{{ site.data.three_cheers.android.latest.release_date }}] {{ site.data.three_cheers.android.latest.changelog_short }}  
+SHA256: `{{ site.data.three_cheers.android.latest.apk.sha256 }}`
 
 &nbsp;
 
@@ -56,3 +56,5 @@ To learn more about Tildes.net, please visit the official [Tildes Docs website](
 <small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
 
 <small>Apple and the Apple logo are trademarks of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license.</small>
+
+<div style="display: none">{{ site.data.three_cheers.template_test }}</div>

@@ -1,0 +1,11 @@
+android:
+  latest:
+    version_name: 1.6.3
+    release_date: 2026-05-20
+    changelog_short: "v1.6: Find in comments"
+    apk:
+      url: https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.6.3.apk
+      file_size: 42 MB
+      sha256: ef248d84a663d5f1b01c8ab4566a5677715b79281b5259f02a85dc2882846767
+
+template_test: "*(ignore: jekyll template is working)*"
