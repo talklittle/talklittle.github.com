@@ -56,5 +56,3 @@ To learn more about Tildes.net, please visit the official [Tildes Docs website](
 <small>Google Play and the Google Play logo are trademarks of Google LLC.</small>
 
 <small>Apple and the Apple logo are trademarks of Apple Inc. IOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license.</small>
-
-<div style="display: none">{{ site.data.three_cheers.template_test }}</div>
