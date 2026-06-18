@@ -1,9 +1,9 @@
 android:
   latest:
-    version_name: 1.6.3
-    release_date: 2026-05-20
+    version_name: 1.6.4
+    release_date: 2026-06-18
     changelog_short: "v1.6: Find in comments"
     apk:
-      url: https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.6.3.apk
-      file_size: 42 MB
-      sha256: ef248d84a663d5f1b01c8ab4566a5677715b79281b5259f02a85dc2882846767
+      url: https://three-cheers-archive.s3.amazonaws.com/three-cheers_1.6.4.apk
+      file_size: 43 MB
+      sha256: 12f1bf3e1e7b47bb850430b3b880055681f821523f6fff22b0c8a62b6b70942a
